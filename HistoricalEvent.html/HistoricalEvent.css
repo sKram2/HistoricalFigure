@@ -1,0 +1,25 @@
+#stylesheetDiv1 {
+
+    border-bottom-style: solid;
+    border-color: Grey;
+
+}
+img {
+    padding: 40px 40px;
+}
+h1 {
+
+    padding: 40px 20px;
+    text-align: center;
+
+}
+p {
+
+    text-align: center;
+
+}
+#stylesheetDiv2 {
+
+    text-align:center;
+
+}
